@@ -76,7 +76,7 @@ efficiency required to win matches.
 
 # Midfield Analysis
 
-## Problem 7 -- Did Germany control the midfield effectively?
+## Problem 5 -- Did Germany control the midfield effectively?
 
 **Finding**
 
@@ -89,7 +89,7 @@ Midfield control was not a weakness throughout the tournament.
 
 ------------------------------------------------------------------------
 
-## Problem 8 -- Did Germany progress the ball efficiently into dangerous attacking areas?
+## Problem 6 -- Did Germany progress the ball efficiently into dangerous attacking areas?
 
 **Finding**
 
@@ -102,7 +102,7 @@ Ball progression was not a contributing factor to Germany's elimination.
 
 ------------------------------------------------------------------------
 
-## Problem 9 -- Did the midfield create enough attacking opportunities?
+## Problem 7 -- Did the midfield create enough attacking opportunities?
 
 **Finding**
 
@@ -115,7 +115,7 @@ Midfield creativity successfully supported the attacking unit.
 
 ------------------------------------------------------------------------
 
-## Problem 11 -- Did Germany recover possession effectively after losing the ball?
+## Problem 8 -- Did Germany recover possession effectively after losing the ball?
 
 **Finding**
 
@@ -135,7 +135,7 @@ important factor behind several goals conceded.
 
 # Defensive Analysis
 
-## Problem 12 -- Was Germany's defensive performance strong enough throughout the tournament?
+## Problem 9 -- Was Germany's defensive performance strong enough throughout the tournament?
 
 **Finding**
 
@@ -150,7 +150,7 @@ contributing directly to goals conceded.
 
 ------------------------------------------------------------------------
 
-## Problem 13 -- Were Germany's defensive actions effective?
+## -- Were Germany's defensive actions effective?
 
 **Finding**
 
@@ -163,22 +163,8 @@ Germany's defensive actions were inconsistent when they mattered most.
 
 ------------------------------------------------------------------------
 
-## Problem 14 -- Did individual defensive mistakes contribute to Germany's elimination?
 
-**Finding**
-
-SQL analysis together with match footage confirmed that multiple goals
-resulted from unsuccessful duels, defensive positioning errors, and
-individual mistakes.
-
-**Insight**
-
-Individual defensive errors directly influenced key moments and
-significantly contributed to Germany's elimination.
-
-------------------------------------------------------------------------
-
-## Problem 15 -- Did Germany compete effectively in physical battles?
+## Problem 10 -- Did Germany compete effectively in physical battles?
 
 **Finding**
 
@@ -194,7 +180,7 @@ to stop attacks, protect leads, and regain control of matches.
 
 # Goalkeeping Analysis
 
-## Problem 16 -- Did Germany receive the required level of goalkeeping performance?
+## Problem 11 -- Did Germany receive the required level of goalkeeping performance?
 
 **Finding**
 
@@ -210,7 +196,7 @@ Germany's elimination.
 
 ------------------------------------------------------------------------
 
-## Problem 17 -- Did the goalkeeper effectively manage defensive situations?
+## Problem 12 -- Did the goalkeeper effectively manage defensive situations?
 
 **Finding**
 
@@ -226,7 +212,7 @@ management was a significant weakness.
 
 # Set Piece Analysis
 
-## Problem 19 -- Did Germany make effective use of set-piece opportunities?
+## Problem -- Did Germany make effective use of set-piece opportunities?
 
 **Finding**
 
