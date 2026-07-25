@@ -283,39 +283,6 @@ Germany's midfield effectively controlled possession and progressed the ball int
 
 ---
 
-# 📁 Project Structure
-
-```
-Germany-2022-Root-Cause-Analysis/
-
-│
-
-├── Data/
-│   ├── CSV Files
-│   ├── Cleaned Data
-│
-├── SQL/
-│   ├── Database Creation
-│   ├── SQL Queries
-│
-├── Power BI/
-│   ├── Germany_WorldCup_Analysis.pbix
-│
-├── README.md
-```
-
----
-
-# 🚀 How to Run
-
-1. Import the dataset into PostgreSQL.
-2. Execute the SQL scripts to create the required tables.
-3. Open the Power BI (.pbix) file.
-4. Refresh the data source if necessary.
-5. Explore the interactive dashboard and root cause analysis.
-
----
-
 # 📚 Skills Demonstrated
 
 - Data Cleaning
